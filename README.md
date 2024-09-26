@@ -18,4 +18,4 @@
 
 ` print("toxiss") `
 
-(Число ПИ)[PI.md](https://github.com/FedorSmitt/Task1/blob/main/PI.md)
+(ПИ)[PI.md](https://github.com/LizaIvenova/README/blob/main/PI.md)
