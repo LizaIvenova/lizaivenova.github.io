@@ -16,7 +16,9 @@
 й-111
 
 ## 3.
-![image](https://web.telegram.org/c217b010-d87f-4e22-93b2-62878c692921)
+![photo_2024-11-21_20-32-13](https://github.com/user-attachments/assets/bee1605f-c59d-4442-b6b9-88bf16875ad2)
+
+
 ## 4.
 Количество уникальных букв: 8
 Минимальное требуемое количество бит: 3
